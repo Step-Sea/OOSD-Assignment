@@ -4,6 +4,7 @@ public class Calculator {
         int num2 = 10;
         int num3 = 10000;
         int num4 = 1026;
+        int num5 = 1456;
         
         int sum = Integer.parseInt(num1) + num2;
         int difference = Integer.parseInt(num1) - num2;
