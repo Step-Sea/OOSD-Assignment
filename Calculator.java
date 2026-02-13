@@ -1,7 +1,7 @@
 public class Calculator {
     public static void main(String[] args) {
         String num1 = (System.console().readLine());
-        int num2 = 5;
+        int num2 = 10;
 
         int sum = Integer.parseInt(num1) + num2;
         int difference = Integer.parseInt(num1) - num2;
