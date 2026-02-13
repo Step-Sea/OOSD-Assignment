@@ -5,8 +5,12 @@ public class Calculator {
 
         int sum = Integer.parseInt(num1) + num2;
         int difference = Integer.parseInt(num1) - num2;
+        int quotient = Integer.parseInt(num1) / num2;
+        int product = Integer.parseInt(num1) * num2;
 
         System.out.println("Sum: " + sum);
         System.out.println("Difference: " + difference);
+        System.out.println("Quotient: " + quotient);
+        System.out.println("Product: " + product);
     }
 }
